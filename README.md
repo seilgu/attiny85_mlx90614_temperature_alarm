@@ -1,23 +1,17 @@
-blink-ATmega328P
-================
+# attiny85_mlx90614_temperature_alarm
+
 
 Introduction
 ------------
-A simple LED blinking project that uses the AVR toolchain without the Arduino IDE.
+Temperature monitor and alarm using Attiny85, MLX90614, and the SSD1306 OLED module.
+Requires usitwix library and ssd1306xled
 
 Hardware
 --------
-* USB Type A to Type B cable
-* Arduino R3 with the Atmel ATmega328p microcontroller.
+Attiny85, buzzer, MLX90614 infrared sensor, SSD1306 I2C 128x64 OLED module.
+Programmer : USBtinyISP
 
 Installation
 ------------
-You will need to have the AVR toolchain instead on your system. This includes:
-* avr-gcc
-* avr-libc
-* avrdude
+First set the fuse for ATtiny85 to internal 8MHz, I'm not sure if it's required.
 
-Support
-------
-Please feel free to contact me if you have any questions/concerns. My email address is tanzhao@umich.edu
-# attiny85_mlx90614_temperature_alarm
