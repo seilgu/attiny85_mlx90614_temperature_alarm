@@ -15,3 +15,11 @@ Installation
 ------------
 First set the fuse for ATtiny85 to internal 8MHz, I'm not sure if it's required.
 
+Wiring
+------
+Attiny85 pin 7, 5 for MLX90614's SCL and SDA.
+**Important : Don't forget to add 4.7k pull-up resistor for MLX90614**
+
+Attiny85 pin 2, 3, for SSD1306's SCL and SDA.
+
+t85's pin 6 for buzzer.
