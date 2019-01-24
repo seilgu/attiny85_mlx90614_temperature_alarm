@@ -23,3 +23,8 @@ Attiny85 pin 7, 5 for MLX90614's SCL and SDA.
 Attiny85 pin 2, 3, for SSD1306's SCL and SDA.
 
 t85's pin 6 for buzzer.
+
+Pictures
+--------
+![My image](seilgu.github.com/attiny85_mlx90614_temperature_alarm/img/front.jpg)
+![My image](seilgu.github.com/attiny85_mlx90614_temperature_alarm/img/back.jpg)
