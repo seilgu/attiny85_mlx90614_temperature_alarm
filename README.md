@@ -26,5 +26,5 @@ t85's pin 6 for buzzer.
 
 Pictures
 --------
-![My image](seilgu.github.com/attiny85_mlx90614_temperature_alarm/img/front.jpg)
-![My image](seilgu.github.com/attiny85_mlx90614_temperature_alarm/img/back.jpg)
+![My image](/img/front.jpg)
+![My image](/img/back.jpg)
